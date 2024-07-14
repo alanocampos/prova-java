@@ -20,9 +20,3 @@ O candidato deve ser implementar 2 desafios:
     - Retornar o último nome. Exemplo: Se o nome for "João Soares Silva", deve retornar "Soares Silva".
     - Retornar o nome todo em letras maiúsculas.
     - Retornar o nome abreviado. Exemplo: Se o nome for "João Soares Silva", retornar "João S. Silva".
-        
- 
-
-    
-Após terminar o candidato deverá versionar a prova no git hub e nos mandar o repositório. 
-* Enviar para: lhsilva@confidencecambio.com.br, msales@confidencecambio.com.br, rlisboa@confidencecambio.com.br
